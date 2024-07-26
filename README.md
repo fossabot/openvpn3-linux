@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FitsScout2%2Fopenvpn3-linux.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FitsScout2%2Fopenvpn3-linux?ref=badge_shield)
+
 OpenVPN 3 Linux
 ===============
 
@@ -312,3 +314,7 @@ Contribution
   Fedora Copr repository is one which is currently available.  We are
   looking for people willing to package this in other Linux distributions
   as well.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FitsScout2%2Fopenvpn3-linux.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FitsScout2%2Fopenvpn3-linux?ref=badge_large)
